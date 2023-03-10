@@ -93,7 +93,7 @@ In case you want to record generation metadata, you can use a [Supabase](https:/
 
 Following people have contributed by translating the app to their language. Thanks to their contributions, billions of people can use the app in their native language:
 
-- [**Arkhath**](https://twitter.com/Arkhath)![](https://img.shields.io/badge/Follow%20%40Arkhath--lightgrey?logo=twitter&style=social): French
+- [**Arkhath**](https://twitter.com/Arkhath): French ![](https://img.shields.io/badge/Follow%20%40Arkhath--lightgrey?logo=twitter&style=social)
 - [**Behoney**](https://github.com/behoney): Korean
 - [**Chibi**](https://twitter.com/CryptoChibs): Spanish
 - [**Jatt**](https://twitter.com/BananoJatt): Hindi
