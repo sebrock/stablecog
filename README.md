@@ -1,4 +1,8 @@
 # [Stablecog](https://stablecog.com) - Simple, free & open source AI image generator
+![GitHub top language](https://img.shields.io/github/languages/top/sebrock/bananominer-watch-DEV_TEST?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sebrock/bananominer-watch-DEV_TEST?style=plastic)
+![GitHub](https://img.shields.io/github/license/sebrock/bananominer-watch-DEV_TEST?style=plastic)
+[![Discord](https://img.shields.io/badge/discord-join%20chat-orange.svg)](https://stablecog.com/discord)
 
 This is an app for creating AI generated images using [Stable Diffusion](https://github.com/CompVis/stable-diffusion) cogs. It's made with [SvelteKit](https://kit.svelte.dev), uses [Supabase](https://supabase.com) for recording of metadata and for managing the default cog cluster. For more info on "cogs", you can check out: [Replicate](https://replicate.com). The app is hosted at [stablecog.com](https://stablecog.com).
 
@@ -96,4 +100,4 @@ Following people have contributed by translating the app to their language. Than
 - [**Just_Dmitry**](https://github.com/justdmitry): Russian
 - **Mongoose#3074**: Chinese Traditional
 - [**Nnq2603**](mailto:5vil@live.com): Vietnamese
-- [**Sebrock**](https://twitter.com/sebrock): German
+- [**sebrock**](https://twitter.com/sebrock): German
