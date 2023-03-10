@@ -94,10 +94,10 @@ In case you want to record generation metadata, you can use a [Supabase](https:/
 Following people have contributed by translating the app to their language. Thanks to their contributions, billions of people can use the app in their native language:
 
 - [**Arkhath**](https://twitter.com/Arkhath): French ![](https://img.shields.io/badge/Follow%20%40Arkhath--lightgrey?logo=twitter&style=social)
-- [**Behoney**](https://github.com/behoney): Korean
-- [**Chibi**](https://twitter.com/CryptoChibs): Spanish
-- [**Jatt**](https://twitter.com/BananoJatt): Hindi
-- [**Just_Dmitry**](https://github.com/justdmitry): Russian
+- [**Behoney**](https://github.com/behoney): Korean ![](https://img.shields.io/badge/Follow%20%40behoney--lightgrey?logo=twitter&style=social)
+- [**Chibi**](https://twitter.com/CryptoChibs): Spanish ![](https://img.shields.io/badge/Follow%20%40CryptoChibs--lightgrey?logo=twitter&style=social)
+- [**Jatt**](https://twitter.com/BananoJatt): Hindi  ![](https://img.shields.io/badge/Follow%20%40BananoJatt--lightgrey?logo=twitter&style=social)
+- [**Just_Dmitry**](https://github.com/justdmitry): Russian  ![](https://img.shields.io/badge/Follow%20%40justdmitry--lightgrey?logo=twitter&style=social)
 - **Mongoose#3074**: Chinese Traditional
 - [**Nnq2603**](mailto:5vil@live.com): Vietnamese
-- [**sebrock**](https://twitter.com/sebrock): German
+- [**sebrock**](https://twitter.com/sebrock): German ![](https://img.shields.io/badge/Follow%20%40sebrock--lightgrey?logo=twitter&style=social)
